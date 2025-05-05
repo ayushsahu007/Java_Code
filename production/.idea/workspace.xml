@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67773732-aac5-4edd-9806-cb38d3746302" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/MultiCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/FileName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/RunnerImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception Handling1/src/com/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PreCOding" beforeDir="false" afterPath="$PROJECT_DIR$/../../PreCOding" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ayushsahu007"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ayushsahu007/Programming.git",
+    "accountId": "388305c7-1f31-4a90-bfe8-5f39c46252eb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2qUq6BsUngBy1WT2as1pApNXUag" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Jspider/JAVA/production"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67773732-aac5-4edd-9806-cb38d3746302" name="Changes" comment="" />
+      <created>1734727324267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734727324267</updated>
+    </task>
+    <servers />
+  </component>
+</project>
