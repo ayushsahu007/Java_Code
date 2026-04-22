@@ -16,6 +16,8 @@ public class Solution1 {
             }
         };
         c.accept(n);
+
+        //using lambda
         Consumer<Integer> c1 = i -> System.out.println(i*i);
        c1.accept(n);
     }

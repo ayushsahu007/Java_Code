@@ -4,6 +4,8 @@ public class Student {
     String name;
     int age;
     long contactno;
+
+
      Student(String name,int age,long contactno){
          this.name=name;
          this.age=age;

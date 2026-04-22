@@ -1,0 +1,39 @@
+Problem 0 : Given a list of strings, find the frequency of each unique word and return a map with words as keys and their frequencies as values. Ignore case sensitivity and handle empty or null inputs gracefully.
+Example:
+
+Input: ["Apple", "banana", "apple", "Cherry", "banana", "apple"]
+Output: {apple=3, banana=2, cherry=1}
+
+Problem 1: Remove Duplicates from a List
+Description: Given a List<Integer>, remove all duplicates while preserving the original order of elements. 
+
+Problem 2: Find the Most Frequent Element in a List
+Description: Given a List<Integer>, find the element that appears most frequently. If multiple elements have the same frequency, return any one.
+
+
+Problem 3: Intersection of Two Lists
+Description: Given two List<Integer>, find their intersection (common elements) while preserving uniqueness.
+
+Problem 4: Sort a Map by Values
+Description: Given a Map<String, Integer>, sort it by values in descending order and return a new Map.
+
+
+Problem 5: Implement a Stack Using Two Queues
+Description: Implement a stack using two Queue objects. Support push, pop, and isEmpty operations.
+
+
+Problem 6: Check for Balanced Parentheses
+Description: Given a string containing parentheses, check if it is balanced using a Stack.
+
+
+Problem 7: Find the First Non-Repeating Character
+Description: Given a string, find the first non-repeating character using a Map.
+
+
+
+Problem 8: Reverse a List In-Place
+Description: Reverse a List<Integer> in-place without using extra space.
+
+
+Problem 9: Group Anagrams
+Description: Given a list of strings, group anagrams together using a Map.

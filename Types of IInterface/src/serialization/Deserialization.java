@@ -14,6 +14,7 @@ public class Deserialization {
             oips.close(); fis.close();
         } catch (ClassNotFoundException | IOException e) {
             throw new RuntimeException(e);
+            
         }
 
     }

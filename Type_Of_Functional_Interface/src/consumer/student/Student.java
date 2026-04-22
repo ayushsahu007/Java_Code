@@ -8,13 +8,5 @@ public class Student {
         this.name = name;
         this.marks = marks;
     }
-
-    @Override
-    public String toString() {
-        return "Student{" +
-                "name='" + name + '\'' +
-                ", marks=" + marks +
-                '}';
-    }
 }
 

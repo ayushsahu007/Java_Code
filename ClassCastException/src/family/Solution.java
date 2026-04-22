@@ -2,7 +2,7 @@ package family;
 
 public class Solution {
     public static void main(String[] args) {
-        Father    f;
+        Father f;
         f = new Son();
         if (f instanceof Son){
             System.out.println("DownCasting to son");
